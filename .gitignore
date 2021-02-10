@@ -1,0 +1,3 @@
+patches
+*.diff
+config.def.h.orig
